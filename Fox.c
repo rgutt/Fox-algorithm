@@ -284,22 +284,6 @@ void writeCtotxt(
   
 }
 
-// double getNorm(double C_loc[],
-//                int m_loc,
-//                int l_loc
-//        )
-// {
-//         float norm_loc = 0;
-//         int i;
-//         
-//         for ( i = 0; i < m_loc*l_loc; i++)
-//         {
-//                 norm_loc += 
-//         }
-//     
-// }
-
-
 int main(int argc,char* argv[])
 {
 	int* dimA;
